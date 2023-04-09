@@ -1,0 +1,33 @@
+.gifespaco{
+    width: auto;
+    position: flex;
+    height: 350px;
+}
+.gif1{
+    width:45%;
+    height: 300px;
+    float: left;
+}
+.gif2{
+    width: 45%;
+    height: 300px;
+    float: right;
+}
+
+@media screen and (max-width: 500px) {
+    .gifespaco {
+      position: relative;
+      height: auto;
+      overflow-x: hidden;
+    }
+    .gif1{
+        width: 100%;
+        height: 150px;
+
+    }
+    .gif2{
+        width: 100%;
+        height: 150px;
+    }
+
+}
