@@ -35,6 +35,4 @@
 # autor
   <a href="knup9900.github.io"><p>Arthur Knup</p></a>
 <br>
-
-<h4 align="center">&#128640 Em processo de aperfeiçoamento &#128640</h4>
 </body>
